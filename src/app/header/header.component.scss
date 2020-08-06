@@ -1,0 +1,16 @@
+header {
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    div.top {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    background-color: #333;
+    h1 {
+        color: white;
+        text-shadow: 0px 0px 5px #666;
+    }
+}

@@ -1,0 +1,12 @@
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: CALC(100vh - 120px);
+    background-color: #F90F;
+    h1 {
+        font-size: 10em;
+        color: #FF4;
+        text-shadow: 0 0 5px black;
+    }
+}
